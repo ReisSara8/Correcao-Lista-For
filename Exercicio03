@@ -11,7 +11,7 @@ public class Exercicio03{
         }
         texto+="\n";
    }
-   JOptionPane.showInputDialog("
+   JOptionPane.showInputDialog(null, texto);
    
    }
 
